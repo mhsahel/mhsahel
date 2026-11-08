@@ -26,20 +26,11 @@
 ## 👋 About Me
 
 ```python
-class Sahel:
-    def __init__(self):
-        self.university = "AIUB (American International University-Bangladesh)"
-        self.goal       = "AI / ML Engineer"
-        self.focus      = ["Machine Learning", "Deep Learning (PyTorch)", "Data Science"]
-        self.currently  = "Building end-to-end ML projects & preparing for DataCamp Data Scientist certification"
-        self.experience = "Machine Learning Intern @ CodeAlpha"
-        self.mindset    = "Learn. Build. Ship. Repeat."
+👋 About Me
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something intelligent together 🚀")
+I'm a student at AIUB on a mission to become an AI / ML Engineer. I like taking raw, messy data and shaping it into models that actually answer a question, and I care as much about clean, reproducible workflows as I do about accuracy scores.
 
-me = Sahel()
-me.say_hi()
+Right now I'm building a portfolio of end-to-end projects in healthcare and behavioral data, learning deep learning with PyTorch, and growing through my Machine Learning internship at CodeAlpha. Every project here is a step on that path, and I'm always happy to learn from people who are further along.
 ```
 
 <table>

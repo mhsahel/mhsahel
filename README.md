@@ -9,12 +9,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20to-Internships-2ea44f?style=for-the-badge"/>
-
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=mhsahel&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views"/>
 <img src="https://img.shields.io/github/followers/mhsahel?label=Followers&style=flat-square&color=0e75b6"/>
@@ -26,7 +21,6 @@
 ## 👋 About Me
 
 ```python
-👋 About Me
 
 I'm a student at AIUB on a mission to become an AI / ML Engineer. I like taking raw, messy data and shaping it into models that actually answer a question, and I care as much about clean, reproducible workflows as I do about accuracy scores.
 

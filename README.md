@@ -7,9 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions;Building+ML+models+that+solve+real+problems;Learning+by+shipping+one+project+at+a+time;CS+Student+%40+AIUB+%7C+ML+Intern+%40+CodeAlpha" alt="Typing SVG" />
 </a>
 
-<br/>
 
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=mhsahel&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views"/>
 <img src="https://img.shields.io/github/followers/mhsahel?label=Followers&style=flat-square&color=0e75b6"/>

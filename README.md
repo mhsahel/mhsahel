@@ -1,18 +1,17 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,40:203a43,100:2c5364&height=260&section=header&text=SAHEL&fontSize=84&fontColor=ffffff&fontAlignY=38&animation=twinkling&stroke=00D9FF&strokeWidth=1&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Data%20Science&descSize=22&descAlignY=60&descColor=9be7ff" width="100%" alt="Sahel - AI, Machine Learning, Data Science"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&height=50&lines=Turning+raw+data+into+decisions;Building+ML+models+that+solve+real+problems;Learning+by+shipping%2C+one+project+at+a+time;CS+Student+%40+AIUB+%7C+ML+Intern+%40+CodeAlpha" alt="Typing SVG" /> </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Sahel&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20AI%20%2F%20ML%20Engineer&descSize=22&descAlignY=58" width="100%" alt="header"/>
+<br/><br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions;Building+ML+models+that+solve+real+problems;Learning+by+shipping+one+project+at+a+time;CS+Student+%40+AIUB+%7C+ML+Intern+%40+CodeAlpha" alt="Typing SVG" />
-</a>
+<img src="https://img.shields.io/badge/Aspiring-AI%20%2F%20ML%20Engineer-00D9FF?style=for-the-badge&labelColor=0f2027"/> <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-2ea44f?style=for-the-badge&labelColor=0f2027"/> <img src="https://img.shields.io/badge/Location-Bangladesh-F42A41?style=for-the-badge&labelColor=0f2027"/> <br/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
+<br/><br/>
 
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/mhsahel?tab=repositories"><img src="https://img.shields.io/badge/Projects-View%20Repos-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=mhsahel&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views"/>
-<img src="https://img.shields.io/github/followers/mhsahel?label=Followers&style=flat-square&color=0e75b6"/>
+<br/><br/>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=mhsahel&label=Profile%20Views&color=00D9FF&style=flat-square&labelColor=0f2027" alt="views"/> <img src="https://img.shields.io/github/followers/mhsahel?label=Followers&style=flat-square&color=00D9FF&labelColor=0f2027"/> <img src="https://img.shields.io/github/stars/mhsahel?label=Stars&style=flat-square&color=00D9FF&labelColor=0f2027"/> </div>
 
 ---
 
